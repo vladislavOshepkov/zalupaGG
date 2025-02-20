@@ -1,0 +1,7 @@
+C:\Users\я продаю каноплю)\source\repos\maksim\maksim\bin\Debug\maksim.exe.config
+C:\Users\я продаю каноплю)\source\repos\maksim\maksim\bin\Debug\maksim.exe
+C:\Users\я продаю каноплю)\source\repos\maksim\maksim\bin\Debug\maksim.pdb
+C:\Users\я продаю каноплю)\source\repos\maksim\maksim\obj\Debug\maksim.csproj.AssemblyReference.cache
+C:\Users\я продаю каноплю)\source\repos\maksim\maksim\obj\Debug\maksim.csproj.CoreCompileInputs.cache
+C:\Users\я продаю каноплю)\source\repos\maksim\maksim\obj\Debug\maksim.exe
+C:\Users\я продаю каноплю)\source\repos\maksim\maksim\obj\Debug\maksim.pdb
